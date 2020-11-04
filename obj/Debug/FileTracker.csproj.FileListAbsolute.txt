@@ -1,0 +1,32 @@
+C:\Users\Ilya\Documents\SharpDevelop Projects\FileTracker\obj\Debug\FileTracker.MainForm.resources
+C:\Users\Ilya\Documents\SharpDevelop Projects\FileTracker\obj\Debug\FileTracker.csproj.GenerateResource.Cache
+C:\Users\Ilya\Documents\SharpDevelop Projects\FileTracker\obj\Debug\FileTracker.csprojResolveAssemblyReference.cache
+C:\Users\Ilya\Documents\SharpDevelop Projects\FileTracker\bin\Debug\FileTracker.dll.config
+C:\Users\Ilya\Documents\SharpDevelop Projects\FileTracker\bin\Debug\FileTracker.dll
+C:\Users\Ilya\Documents\SharpDevelop Projects\FileTracker\bin\Debug\FileTracker.pdb
+C:\Users\Ilya\Documents\SharpDevelop Projects\FileTracker\bin\Debug\SandDock.dll
+C:\Users\Ilya\Documents\SharpDevelop Projects\FileTracker\obj\Debug\FileTracker.dll
+C:\Users\Ilya\Documents\SharpDevelop Projects\FileTracker\obj\Debug\FileTracker.pdb
+E:\develop\FileTracker\obj\Debug\FileTracker.MainForm.resources
+E:\develop\FileTracker\obj\Debug\FileTracker.csproj.GenerateResource.Cache
+E:\develop\FileTracker\obj\Debug\FileTracker.csprojResolveAssemblyReference.cache
+E:\develop\FileTracker\bin\Debug\FileTracker.pdb
+E:\develop\FileTracker\obj\Debug\FileTracker.pdb
+E:\develop\FileTracker\bin\Debug\Atechnology.Components.dll
+E:\develop\FileTracker\bin\Debug\Atechnology.ecad.Settings.dll
+E:\develop\FileTracker\bin\Debug\DevExpress.XtraTreeList.v8.2.dll
+E:\develop\FileTracker\bin\Debug\DevExpress.XtraEditors.v8.2.dll
+E:\develop\FileTracker\bin\Debug\DevExpress.XtraGrid.v8.2.dll
+E:\develop\FileTracker\bin\Debug\DevExpress.XtraVerticalGrid.v8.2.dll
+E:\develop\FileTracker\bin\Debug\DevExpress.XtraBars.v8.2.dll
+E:\develop\FileTracker\bin\Debug\Atechnology.DBConnection.dll
+E:\develop\FileTracker\bin\Debug\DevExpress.Utils.v8.2.dll
+E:\develop\FileTracker\bin\Debug\DevExpress.XtraNavBar.v8.2.dll
+E:\develop\FileTracker\bin\Debug\DevExpress.Data.v8.2.dll
+E:\develop\FileTracker\bin\Debug\DevExpress.XtraLayout.v8.2.dll
+E:\develop\FileTracker\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\develop\FileTracker\bin\Debug\Atechnology.Logging.dll
+E:\develop\FileTracker\bin\Debug\log4net.dll
+E:\develop\FileTracker\bin\Debug\FileTracker.dll.config
+E:\develop\FileTracker\bin\Debug\FileTracker.dll
+E:\develop\FileTracker\obj\Debug\FileTracker.dll
